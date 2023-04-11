@@ -207,7 +207,7 @@ plt.show()
 
 ### vi)Image Cropping
 ![p6](https://user-images.githubusercontent.com/95266350/231171394-5a0c51e6-f1cf-4c7b-91df-a4979e32f342.png)
-
+ 
 ## Result: 
 
 Thus the different image transformations such as Translation, Scaling, Shearing, Reflection, Rotation and Cropping are done using OpenCV and python programming.
